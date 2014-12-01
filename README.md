@@ -15,4 +15,6 @@ Useful parameters if you wish to modify the script.
 * --query-year               Year
 * --query-rating             Rating
 * --query-score              Score
---query-bit-rate           Bit Rate
+--query-bit-rate             Bit Rate
+
+Special thanks and credits go to [Auze](https://github.com/Auze/bansheeX) for his bansheeX script. This is a heavily simplified version of it which I made to my liking.
