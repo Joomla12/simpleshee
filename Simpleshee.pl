@@ -1,4 +1,5 @@
 #!/usr/bin/perl -w
+#Special thanks to Auze (https://github.com/Auze) for bansheeX.
 
 use strict;
 use Xchat qw( :all);
