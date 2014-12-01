@@ -29,7 +29,7 @@ sub np {
 	}
 }
 
-# Test if Banshee currently running
+# Test if Banshee is currently running
 sub btest {
 	`pidof banshee`;
 	my $btest = $?;
