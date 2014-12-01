@@ -2,7 +2,7 @@
 
 This basic script allows you to announce the currently playing song in Banshee in either XChat or HexChat.
 
-Useful parameters if you wish to modify the script.
+Useful parameters to know if you wish to modify the script.
 
 * --query-uri                URI
 * --query-artist             Artist Name
