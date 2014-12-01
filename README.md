@@ -15,6 +15,6 @@ This basic script allows you to announce the currently playing song in Banshee i
 * --query-year               
 * --query-rating             
 * --query-score             
-*--query-bit-rate
+* --query-bit-rate
 
 Special thanks and credits go to [Auze](https://github.com/Auze/bansheeX) for his bansheeX script. This is a heavily simplified version of it which I made to my liking.
